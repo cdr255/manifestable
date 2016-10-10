@@ -1,0 +1,11 @@
+* Forming a Nation
+
+This section defines how exactly to go about defining and creating the
+Nation which all of the players control together.
+
+** Constitution
+
+* Domestic Affairs
+* Foreign Affairs
+* Generation Gaps
+* Non-Player Nations (NPNs)
